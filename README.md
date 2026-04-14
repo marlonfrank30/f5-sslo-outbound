@@ -210,3 +210,31 @@ H --> I[lightspeed_from]
 # 📌 Notes
 - Built from real SSLO config
 - Designed for SA-level documentation
+------------------------------------------------------------------------
+- ## License
+
+This project is intended for operational automation within F5 environments.  
+Use at your own risk and validate in a test environment prior to production deployment.
+
+------------------------------------------------------------------------
+
+# 🤝 Contributing
+
+Pull requests welcome:
+
+-   Automation examples
+-   Architecture diagrams
+-   Policy templates
+
+------------------------------------------------------------------------
+
+# ⭐ Credits
+
+Architecture based on enterprise F5 BIG-IP DNS deployment patterns and
+real-world designs.
+
+------------------------------------------------------------------------
+
+## 🧑‍💻 Author
+**Marlon Frank**  
+*Network and Application Security & F5 Automation Engineer*  
