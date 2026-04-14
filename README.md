@@ -233,7 +233,7 @@ Pull requests welcome:
 
 # ⭐ Credits
 
-Architecture based on enterprise F5 BIG-IP DNS deployment patterns and
+Architecture based on enterprise F5 BIG-IP SSLo deployment patterns and
 real-world designs.
 
 ------------------------------------------------------------------------
