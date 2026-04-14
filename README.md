@@ -16,8 +16,11 @@ E --> F[Internet]
 ```
 
 ![SSLO Outbound Network Diagram](./diagrams/sslo-netdiagram.png)
-![SSLO Outbound Network Diagram](./diagrams/sslo-netdiagram2.png)
+
+# 🧭 Architecture Overview with Flows
 ---
+![SSLO Outbound Network Diagram](./diagrams/sslo-netdiagram2.png)
+
 
 # 🔁 End-to-End Traffic Flow
 
