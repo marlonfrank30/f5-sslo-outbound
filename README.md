@@ -1,4 +1,4 @@
-# F5 SSLO Outbound Architecture (Ultimate)
+# F5 SSLO Outbound Architecture
 
 This repo contains a full production-quality SSLO documentation including flows, macros, service chains, and design insights.
 
@@ -55,7 +55,7 @@ Z --> N
 
 ---
 
-# 🧠 APM Policy Flow (1:1 with Config)
+# 🧠 APM Policy Flow
 
 ```mermaid
 flowchart TD
@@ -95,7 +95,7 @@ L --> M
 
 ## Categorization Macro
 IP address spreedsheet mappings <br>
-![SSLO Outbound IP address assigments ](./assets/f5 IP mappings.xlsx)
+![SSLO Outbound IP address assigments ](./assets/f5-ip-mappings.xlsx)
 
 ## Categorization Macro
 
