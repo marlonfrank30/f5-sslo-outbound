@@ -143,7 +143,7 @@ D --> E
 
 ---
 
-# 🌐 IP Addressing (Cleaned & Grouped)
+# 🌐 IP Addressing
 
 ## Core Interfaces
 
