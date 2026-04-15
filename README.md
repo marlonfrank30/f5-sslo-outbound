@@ -95,7 +95,7 @@ L --> M
 
 ## Categorization Macro
 IP address spreedsheet mappings <br>
-![SSLO Outbound IP address assigments ](./assets/f5-ip-mappings.xlsx)
+![SSLO Outbound IP address assigments ](./assets/f5-IP-mappings.xlsx)
 
 ## Categorization Macro
 
